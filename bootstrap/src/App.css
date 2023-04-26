@@ -1,0 +1,18 @@
+#txt-red
+{
+  color: red;
+}
+#txt-orange
+{
+  color: orange;
+}
+.bg-black
+{
+  background-color: black;
+  color: white;
+}
+.bg-pink
+{
+  background: pink;
+  color: red;
+}
